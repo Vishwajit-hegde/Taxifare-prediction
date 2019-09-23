@@ -1,5 +1,6 @@
 # Taxifare-prediction
-Predicting taxi fares using 1 hidden layer neural network
+Predicting taxi fares using 1 hidden layer neural network:
+
 This is my first attempt on building a neural network model to make predictions.
 Dataset is taken from kaggle. Link is here: https://www.kaggle.com/chicago/chicago-taxi-rides-2016
 This dataset includes taxi trips for 2016, reported to the City of Chicago in its role as a regulatory agency. 
